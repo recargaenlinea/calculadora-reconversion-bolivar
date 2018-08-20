@@ -1,0 +1,11 @@
+{
+	"name": "Calculadora Conversión Bolívar",
+	"short_name": "PWA Calculadora Conversión",
+	"icons":[
+	],
+	"start_url":"/index.html",
+	"display":"standalone",
+	"background_color": "#fff",
+	"theme_color": "#ee0979",
+	"description": "App para convertir BsFuertes a Soberanos y viceversa"
+}
