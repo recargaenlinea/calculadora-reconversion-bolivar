@@ -1,0 +1,82 @@
+body{
+	background-image: url("tic-tac-toe.png");
+}
+
+.calculadora-contenedor{
+background: #1e73be; /* Old browsers */
+}
+.fondo-naranja{
+	background: #fd7e14;
+}
+
+.logo-recarga{
+	padding: 120px;
+	padding-bottom: 40px;
+	padding-top: 60px
+}
+
+.etiqueta{
+	color: white;
+}
+
+h6{
+    font-size:1.5em;
+}
+
+h5{
+    font-size:1.75em;
+}
+
+@media screen and (max-width: 550px) {
+	.calculadora-contenedor{
+		width: 100%;
+		height: 500px;
+	}
+	.logo-recarga{
+	padding: 15%;
+	padding-bottom: 10%;
+	padding-top: 10%;
+	}
+
+}
+
+@media screen and (max-width: 375px) {
+
+	.calculadora-contenedor{
+		width: 100%;
+		height: 100%;
+	}
+	.logo-conatel{
+		padding: 10%;
+		padding-bottom: 5%;
+		padding-top: 10%;
+	}
+
+	}
+
+@media screen and (orientation:portrait) { 
+	
+	.calculadora-contenedor{
+		width: 100%;
+		height: 100%;
+	}
+	.logo-conatel{
+		padding: 10%;
+		padding-top: 10%;
+		padding-bottom: 0;
+	}
+h6{
+    font-size:4.5vw;
+}
+
+h5{
+    font-size:5vw;
+}
+  .input-group{
+      height:5vh;
+      margin-bottom:6.25vh;
+  }  
+.form-control-lg, .input-group-lg > .form-control, .input-group-lg > .input-group-append > .btn, .input-group-lg > .input-group-append > .input-group-text, .input-group-lg > .input-group-prepend > .btn, .input-group-lg > .input-group-prepend > .input-group-text{
+      font-size:4.5vw;
+  }  
+}
