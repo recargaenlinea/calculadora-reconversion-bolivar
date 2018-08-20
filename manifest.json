@@ -2,6 +2,36 @@
 	"name": "Calculadora Conversión Bolívar",
 	"short_name": "PWA Calculadora Conversión",
 	"icons":[
+		{
+			"src":"",
+			"type":"",
+			"sizes":""
+
+		},
+		{
+			"src":"",
+			"type":"",
+			"sizes":""
+
+		},
+		{
+			"src":"",
+			"type":"",
+			"sizes":""
+
+		},
+		{
+			"src":"",
+			"type":"",
+			"sizes":""
+
+		},
+		{
+			"src":"",
+			"type":"",
+			"sizes":""
+
+		},		
 	],
 	"start_url":"/index.html",
 	"display":"standalone",
